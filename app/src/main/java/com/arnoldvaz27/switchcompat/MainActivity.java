@@ -1,12 +1,11 @@
-package com.example.differentandroidcodes;
+package com.arnoldvaz27.switchcompat;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SwitchCompat;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.CompoundButton;
 import android.widget.Toast;
+
 
 public class MainActivity extends AppCompatActivity {
 

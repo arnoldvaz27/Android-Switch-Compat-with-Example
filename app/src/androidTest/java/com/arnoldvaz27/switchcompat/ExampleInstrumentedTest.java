@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes;
+package com.arnoldvaz27.switchcompat;
 
 import android.content.Context;
 
